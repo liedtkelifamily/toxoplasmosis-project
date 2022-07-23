@@ -28,4 +28,5 @@ First, I exported the database into my terminal and divided the images into trai
 
 2. For someone to run the project, they would need Googlenet and PyTorch installed. They would also need to have the dataset downloaded.
 
-[View a video explanation here](video link)
+note: I was only allowed a minute to record my video, so the beginning part got cut off and some of my code isn't fully explained (I meant to say that inside of the final_project directory I had two more directories- data and model).
+[View a video explanation here](https://imgur.com/a/dgdIeIr)
